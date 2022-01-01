@@ -1,2 +1,2 @@
-# Redux-Config
+# Redux-ToDo
 Created with CodeSandbox
